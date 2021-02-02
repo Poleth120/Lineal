@@ -1,1 +1,2 @@
 # Lineal
+Taller en clase.
